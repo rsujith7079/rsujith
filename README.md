@@ -1,3 +1,6 @@
-require 'matplotlib/iruby'
+require ' matplotlib/iruby '
 Matplotlib::IRuby.activate
-Matplotlib.interactive(false) # Interactive plotting OFF, necessary for inline plotting in IRuby
+Matplotlib.interactive(false) #Interactive plotting OFF, 
+0necessary for inline plotting in IRubyruby data 
+ruby @active 
+ruby @inactive
